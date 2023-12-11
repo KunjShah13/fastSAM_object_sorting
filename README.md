@@ -1,7 +1,7 @@
-#Final Year Project: Integration of Delta Robit and advanced Computer Vision
+# Final Year Project: Integration of Delta Robit and advanced Computer Vision
 
 
-##OBJECTIVE
+## OBJECTIVE
 Using Top-down method to the problem of object detection and sorting.  
 
 ## Installation
